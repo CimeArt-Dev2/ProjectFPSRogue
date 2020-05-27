@@ -1,17 +1,17 @@
-﻿# Game French translation.
+﻿# Game English translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2020-05-25 15:02\n"
-"PO-Revision-Date: 2020-05-25 15:02\n"
+"POT-Creation-Date: 2020-05-27 08:49\n"
+"PO-Revision-Date: 2020-05-27 08:49\n"
 "Language-Team: \n"
-"Language: fr\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Key:	0B58EBE8486AFD692A79369F6CDA91EE
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(11).Data.Text
@@ -25,7 +25,7 @@ msgstr "Aller, entre !"
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.ApplyChange.Text
 msgctxt ",0B757DEB4B658F19993B628D031D1CAF"
 msgid "Apply Change"
-msgstr "Appliquer"
+msgstr "Apply Change"
 
 #. Key:	1316B72543626ABC3E04C38CA1D5AFB4
 #. SourceLocation:	/Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.SwitchLeft.Text
@@ -46,7 +46,7 @@ msgstr "D'accord puisque tu as une arme tu doit savoir ce que tu fait, Bonne cha
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",16EC574047F9157E6981A2BF4DD838CA"
 msgid "Graphics Options"
-msgstr "Options Graphiques"
+msgstr "Graphics Options"
 
 #. Key:	178237AA4A567D774C8AC387EDEECEA5
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(3).Data.Text
@@ -81,7 +81,7 @@ msgstr "First Person Template"
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.Default__UI_OptionMenu_C.Langues(0).Langues.Langue_4_6DF80F05409201B142944299FAC5F804
 msgctxt ",275EBEB246C32F1229BBAD8C19933757"
 msgid "Francais"
-msgstr "Francais"
+msgstr "French"
 
 #. Key:	2BA23C8A4B2BA5C662F733BB4DB240A0
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/EnumPNJ.EnumPNJ.DisplayNameMap(0 - Value).DisplayNameMap
@@ -158,7 +158,7 @@ msgstr "999 / 999"
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_1339.Text
 msgctxt ",574F93D647C3B74177D547AF6753555D"
 msgid "General Options"
-msgstr "Option Général"
+msgstr "General Options"
 
 #. Key:	57F81C114D9018CC99EC6BA2CCC7943D
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(8).Data.Text
@@ -179,7 +179,7 @@ msgstr "<"
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.Default__UI_OptionMenu_C.Langues(1).Langues.Langue_4_6DF80F05409201B142944299FAC5F804
 msgctxt ",5B060FB8464058EF5A5C09943F0974D4"
 msgid "Anglais"
-msgstr "Anglais"
+msgstr "English"
 
 #. Key:	5B4F8B4141F6A577D5D74DAEB43DE3BD
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(6).Data.Text
@@ -279,19 +279,12 @@ msgctxt ",93181DAC48F223F572C544BB7364272E"
 msgid "Faire quelque potion."
 msgstr "Faire quelque potion."
 
-#. Key:	959A8578419D2C4B452C96BFB4CD60F7
-#. SourceLocation:	/Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_186.Text
-#: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_186.Text
-msgctxt ",959A8578419D2C4B452C96BFB4CD60F7"
-msgid "Language"
-msgstr "Langue"
-
 #. Key:	9C55C0C840DEA02768CDC8BAA75DE44C
 #. SourceLocation:	/Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_820.Text
 #: /Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_820.Text
 msgctxt ",9C55C0C840DEA02768CDC8BAA75DE44C"
 msgid "Leave the game"
-msgstr "Quitter le jeu"
+msgstr "Leave the game"
 
 #. Key:	A04A69BC47A44B53C14C7EAC169D4763
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(3).Data.Text
@@ -326,7 +319,7 @@ msgstr "Bonjour, bonjour, bonjour .... Pourquoi tu me fixe comme ça qu'est ce q
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_124.Text
 msgctxt ",ABB7904D496EBE9DB8D08E84AD64C168"
 msgid "Graphics"
-msgstr "Graphiques"
+msgstr "Graphics"
 
 #. Key:	AE694C104228495ACFBC76B0A4CB706D
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(4).Data.Text
@@ -340,7 +333,7 @@ msgstr "Qu'est ce que je fait ?! mais des potion bien sur ! L'alchimie et la bas
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_4.Text
 msgctxt ",BAE08AFF493ADD87068248932DAFBDBD"
 msgid "Controls Options"
-msgstr "Controles Options"
+msgstr "Controls Options"
 
 #. Key:	BE125430459CB683175A37AB71897921
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(10).Data.Text
@@ -375,7 +368,7 @@ msgstr "Camera Height :"
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt ",CB733C2F4C37460D87F425B9D4FFBC20"
 msgid "General"
-msgstr "Général"
+msgstr "General"
 
 #. Key:	CB8D331343860A1BEA9F51A3C182D0A1
 #. SourceLocation:	/Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_449.Text
@@ -389,7 +382,7 @@ msgstr "Options"
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",CC2DFF9E426E610EC79FE0BEA25D727C"
 msgid "Controls"
-msgstr "Controles"
+msgstr "Controls"
 
 #. Key:	CE93D95747D0DEAEB1625483CCEB603D
 #. SourceLocation:	/Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.btnMoveCamera.ToolTipText
@@ -403,14 +396,14 @@ msgstr "Click to toggle between move mode and fixed mode"
 #: /Game/Blueprints/HUB/Dialogues/EnumPNJ.EnumPNJ.DisplayNameMap(2 - Value).DisplayNameMap
 msgctxt ",CECB79C94B5DB72CC533E2874B537BFD"
 msgid "Guard"
-msgstr "Garde"
+msgstr "Guard"
 
 #. Key:	DCCF4964420D536CA00674A07D0FA7A1
 #. SourceLocation:	/Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_5.Text
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",DCCF4964420D536CA00674A07D0FA7A1"
 msgid "Sounds Options"
-msgstr "Audio"
+msgstr "Sounds Options"
 
 #. Key:	DE33CE774594020245EDEDA6811D0419
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(14).Data.Text
@@ -425,6 +418,13 @@ msgstr "Partir"
 msgctxt ",DE35EFC5496F99009589D1986EB36FD7"
 msgid "Pourquoi vous resté ici tout le temps ?"
 msgstr "Pourquoi vous resté ici tout le temps ?"
+
+#. Key:	DF19CFF24E7501B25D173FABECA2C1E1
+#. SourceLocation:	/Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_186.Text
+#: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_186.Text
+msgctxt ",DF19CFF24E7501B25D173FABECA2C1E1"
+msgid "Langue"
+msgstr "Language"
 
 #. Key:	E020F6EB457064119D51068B3DAB6D62
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(7).Data.Text
@@ -459,7 +459,7 @@ msgstr "Select a <colored>LevelAreaGenerator</> first, to open the editor..."
 #: /Game/UserInterfaces/HUD/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",F1A2EAEE40BEB97DD21BE4AF01B65306"
 msgid "Sounds"
-msgstr "Sons"
+msgstr "Sounds"
 
 #. Key:	F3F3373E4FC33A7871F2009E88CBE4D6
 #. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(0).Data.Text
@@ -7920,4 +7920,74 @@ msgstr "Good one!"
 msgctxt "Dialogue,FF56C5324138E754E2107BA4807489A3_D82B104000000000"
 msgid "No more shields for you."
 msgstr "No more shields for you."
+
+#. Key:	Constants
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionConstant_0.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionConstant_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Constants"
+msgid "Constants"
+msgstr "Constants"
+
+#. Key:	Coordinates
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionTextureCoordinate_1.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionTextureCoordinate_1.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Coordinates"
+msgid "Coordinates"
+msgstr "Coordinates"
+
+#. Key:	Functions
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionMaterialFunctionCall_10.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionMaterialFunctionCall_10.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Functions"
+msgid "Functions"
+msgstr "Functions"
+
+#. Key:	MaterialAttributes
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionMakeMaterialAttributes_3.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionMakeMaterialAttributes_3.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,MaterialAttributes"
+msgid "Material Attributes"
+msgstr "Material Attributes"
+
+#. Key:	Math
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionMultiply_2.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionMultiply_2.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Math"
+msgid "Math"
+msgstr "Math"
+
+#. Key:	Misc
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4.LibraryCategoriesText(0).LibraryCategoriesText
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4.LibraryCategoriesText(0).LibraryCategoriesText
+msgctxt "MaterialExpression,Misc"
+msgid "Misc"
+msgstr "Misc"
+
+#. Key:	Parameters
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionStaticSwitchParameter_0.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionStaticSwitchParameter_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Parameters"
+msgid "Parameters"
+msgstr "Parameters"
+
+#. Key:	Texture
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionTextureSample_4.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionTextureSample_4.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Texture"
+msgid "Texture"
+msgstr "Texture"
+
+#. Key:	Utility
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionComment_38.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionComment_38.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression,Utility"
+msgid "Utility"
+msgstr "Utility"
+
+#. Key:	Vectors
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionConstant3Vector_1.MenuCategories(1).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionConstant3Vector_1.MenuCategories(1).MenuCategories
+msgctxt "MaterialExpression,Vectors"
+msgid "Vectors"
+msgstr "Vectors"
 
