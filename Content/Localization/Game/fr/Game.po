@@ -1,0 +1,593 @@
+﻿# Game French translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2020-05-28 11:27\n"
+"PO-Revision-Date: 2020-05-28 11:27\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Key:	0997D8A34BF52CCFAB7EB686A9B71F9E
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:WidgetTree.TextBlock_186.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:WidgetTree.TextBlock_186.Text
+msgid "Text"
+msgstr "Text"
+
+#. Key:	0A0EB62D41FED6D3ED128985AE951F7D
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+msgid "Music Volume"
+msgstr "Volume de la musique"
+
+#. Key:	0B58EBE8486AFD692A79369F6CDA91EE
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(11).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(11).Data.Text
+msgid "Aller, entre !"
+msgstr "Aller, entre !"
+
+#. Key:	0B757DEB4B658F19993B628D031D1CAF
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.ApplyChange.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.ApplyChange.Text
+msgid "Apply Change"
+msgstr "Appliquer les changements"
+
+#. Key:	1073BDE942FFB7DD3C820C8AC3B76057
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+msgid "Master Volume"
+msgstr "Volume Général"
+
+#. Key:	12B92685425464C7D41D8384132AE4F8
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#. Key:	F6369BF145955A267A75F29E26639F7E
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:Get Text 0 [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:Get Text 0 [Script Bytecode]
+msgid "1920*1080"
+msgstr "1920*1080"
+
+#. Key:	1316B72543626ABC3E04C38CA1D5AFB4
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.SwitchLeft.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.SwitchLeft.Text
+msgid "  <"
+msgstr "  <"
+
+#. Key:	136E8BBD4B22DA872F7FFDB1BEC0B51C
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(6).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(6).Data.Text
+msgid "D'accord puisque tu as une arme tu doit savoir ce que tu fait, Bonne chance !"
+msgstr "D'accord puisque tu as une arme tu doit savoir ce que tu fait, Bonne chance !"
+
+#. Key:	178237AA4A567D774C8AC387EDEECEA5
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(3).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(3).Data.Text
+msgid "Que faite vous ?"
+msgstr "Que faite vous ?"
+
+#. Key:	20BD620341274053A14FD4B7CA98FAF5
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(9).Data.Text
+#. Key:	5B4F8B4141F6A577D5D74DAEB43DE3BD
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(6).Data.Text
+#. Key:	6E0635B0418D2D6066D8B8B227E064D6
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(13).Data.Text
+#. Key:	F905BC2A45DCEF38AC61F1A005B5104A
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(4).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(6).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(4).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(13).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(9).Data.Text
+msgid "Partir."
+msgstr "Partir."
+
+#. Key:	226FB11F43B436717E33EDBE1B619AA6
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(4).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(4).Data.Text
+msgid "Je n'ai pas peur."
+msgstr "Je n'ai pas peur."
+
+#. Key:	250A277E42B5F40DEB04188F13512296
+#. SourceLocation:	/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.TemplateLabel.NewTextRenderComponent.Text
+#: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.TemplateLabel.NewTextRenderComponent.Text
+msgid "First Person Template"
+msgstr "First Person Template"
+
+#. Key:	29B673E24ED1AFD0DF269B9CB49720F1
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:WidgetTree.TextBlock_400.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:WidgetTree.TextBlock_400.Text
+msgid "<"
+msgstr "<"
+
+#. Key:	2BA23C8A4B2BA5C662F733BB4DB240A0
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/EnumPNJ.EnumPNJ.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Blueprints/HUB/Dialogues/EnumPNJ.EnumPNJ.DisplayNameMap(0 - Value).DisplayNameMap
+msgid "Blacksmith"
+msgstr "Blacksmith"
+
+#. Key:	2DB92AF6498B77339F028B93D8D398E4
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Name
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Name
+msgid "Forgeron Rémineur:"
+msgstr "Forgeron Rémineur:"
+
+#. Key:	3167C9064B1B74CB35F0EEB4DD34A007
+#. SourceLocation:	/Game/Blueprints/Player/UI_PlayerTestStat.UI_PlayerTestStat_C:WidgetTree.TextBlock_263.Text
+#: /Game/Blueprints/Player/UI_PlayerTestStat.UI_PlayerTestStat_C:WidgetTree.TextBlock_263.Text
+msgid "1"
+msgstr "1"
+
+#. Key:	33F055F94C691AF066931D85408F3491
+#. SourceLocation:	/Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_319.Text
+#: /Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_319.Text
+msgid "Play"
+msgstr "Jouer"
+
+#. Key:	34307E3A41D91FC7A6416FB623ECDA2C
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+msgid "Low"
+msgstr "Bas"
+
+#. Key:	3A4E1EA84D42F714157D3D8107491C48
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+msgid "Medium"
+msgstr "Normal"
+
+#. Key:	3DE8419B4FAF65741E2490815B1CC91F
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+msgid "General Option"
+msgstr "Options General"
+
+#. Key:	3EC371E4411187C50A0261B527705B0D
+#. SourceLocation:	/Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.TextBlock_140.Text
+#: /Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.TextBlock_140.Text
+msgid "LEVEl AREA EDITOR"
+msgstr "LEVEl AREA EDITOR"
+
+#. Key:	458AE63D43FA548C62907EB34322341C
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(0).Data.Text
+#. Key:	F3F3373E4FC33A7871F2009E88CBE4D6
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(0).Data.Text
+#. Key:	FE4360A24E703AC7DFBA19AF2FCDFBE5
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(0).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(0).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(0).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(0).Data.Text
+msgid "Start"
+msgstr "Start"
+
+#. Key:	49DBE34140D394CF3EA673B7F31F8352
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:WidgetTree.TextBlock_8.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:WidgetTree.TextBlock_8.Text
+msgid ">"
+msgstr ">"
+
+#. Key:	4A7F234749C29F77E48D9B8280D48B99
+#. SourceLocation:	/Game/UserInterfaces/HUD/UI_BaseHUD.UI_BaseHUD_C:Get_txtMaxHealth_1_Text_0 [Script Bytecode]
+#: /Game/UserInterfaces/HUD/UI_BaseHUD.UI_BaseHUD_C:Get_txtMaxHealth_1_Text_0 [Script Bytecode]
+msgid "{Ammo} / {MaxAmmo}"
+msgstr "{Ammo} / {MaxAmmo}"
+
+#. Key:	4A85675D4C881BE2FC37A48BD5541B2F
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(8).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(8).Data.Text
+msgid "Quoi ! je suis ici pour empeché les imbéciles de sortir et de mourir bêtement !"
+msgstr "Quoi ! je suis ici pour empeché les imbéciles de sortir et de mourir bêtement !"
+
+#. Key:	51446CEF4737E3C6B70479858CB04679
+#. SourceLocation:	/Game/UserInterfaces/HUD/UI_BaseHUD.UI_BaseHUD_C:WidgetTree.txtMaxHealth_1.Text
+#: /Game/UserInterfaces/HUD/UI_BaseHUD.UI_BaseHUD_C:WidgetTree.txtMaxHealth_1.Text
+msgid "999 / 999"
+msgstr "999 / 999"
+
+#. Key:	57F81C114D9018CC99EC6BA2CCC7943D
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(8).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(8).Data.Text
+msgid "Comment m'amélioré."
+msgstr "Comment m'amélioré."
+
+#. Key:	5C87130B4B86D1731D5B0A8C6ADDEB67
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.SwitchRight.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.SwitchRight.Text
+msgid ">  "
+msgstr ">  "
+
+#. Key:	607C9C2D4E5B1B606F363EB72F844A2A
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(1).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(1).Data.Text
+msgid "Hey ! Attends ! qu'est ce que tu compte faire la ?!"
+msgstr "Hey ! Attends ! qu'est ce que tu compte faire la ?!"
+
+#. Key:	646541A54012013BD03BB4B6968A4226
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(9).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(9).Data.Text
+msgid "Retour."
+msgstr "Retour."
+
+#. Key:	6677457B48F9B8B51B2B0E9CD77A3740
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+msgid "Genral Option"
+msgstr "Options General"
+
+#. Key:	6AEBF1824B0498D40CE37EB1E29BD856
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(5).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(5).Data.Text
+msgid "Bien, allons y"
+msgstr "Bien, allons y"
+
+#. Key:	6B6114BF4CB41CB131826485B353D8DF
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(12).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(12).Data.Text
+msgid "Bien sur que j'ai raison, allez file ne reste pas planté la."
+msgstr "Bien sur que j'ai raison, allez file ne reste pas planté la."
+
+#. Key:	6CA9D1BE4A7B8B54941C7FB54FD9725F
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+msgid "Sounds Option"
+msgstr "Options Sonore"
+
+#. Key:	784847644A6D66615BAB5780E1C4A597
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+msgid "High"
+msgstr "Haut"
+
+#. Key:	78A64BBA45C9623708FB4BBD332DD77C
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Name
+#: /Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Name
+msgid "Alchimiste Remysterio:"
+msgstr "Alchimiste Remysterio:"
+
+#. Key:	7ADE7CCD4D8366E13719F3A6A20E5FDD
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(2).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(2).Data.Text
+msgid "Améliore mon équipement !"
+msgstr "Améliore mon équipement !"
+
+#. Key:	7F77BD0D4CABB89404D6AFBE3CDAB318
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Name
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Name
+msgid "Garde Rémilitaire:"
+msgstr "Garde Rémilitaire:"
+
+#. Key:	824EEE724355BFEFF70822B857DE7900
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/EnumPNJ.EnumPNJ.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Blueprints/HUB/Dialogues/EnumPNJ.EnumPNJ.DisplayNameMap(1 - Value).DisplayNameMap
+msgid "Alchimist"
+msgstr "Alchimist"
+
+#. Key:	84C5BE804F3EE03A40DA1AB181B69CBB
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:WidgetTree.TextBlock_6.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:WidgetTree.TextBlock_6.Text
+msgid "test"
+msgstr "test"
+
+#. Key:	8C680CEF4AA1383991F9A5AC6D7F0470
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/KeyBinding.KeyBinding_C:WidgetTree.TextBlock_179.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/KeyBinding.KeyBinding_C:WidgetTree.TextBlock_179.Text
+msgid "Change"
+msgstr "Modifer"
+
+#. Key:	8DAD410C481876663EC2829211B692F8
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(10).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(10).Data.Text
+msgid "Tu n'as aucune arme ! équipe toi et je te laisserais  sortir ."
+msgstr "Tu n'as aucune arme ! équipe toi et je te laisserais  sortir ."
+
+#. Key:	925FEDAF4E6AF4EFC5655BA136705A07
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(5).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(5).Data.Text
+msgid "Vous avez raison ..."
+msgstr "Vous avez raison ..."
+
+#. Key:	93181DAC48F223F572C544BB7364272E
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(2).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(2).Data.Text
+msgid "Faire quelque potion."
+msgstr "Faire quelque potion."
+
+#. Key:	98C0CE9A4E08B2D258F90FA145C9B6DB
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#. Key:	E9FC88F34986432B3AF5738E72A7E7F9
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/KeyBinding.KeyBinding_C:GetText_0 [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/KeyBinding.KeyBinding_C:GetText_0 [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+msgid "None"
+msgstr "None"
+
+#. Key:	9C55C0C840DEA02768CDC8BAA75DE44C
+#. SourceLocation:	/Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_820.Text
+#: /Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_820.Text
+msgid "Leave the game"
+msgstr "Quitter le jeu"
+
+#. Key:	A04A69BC47A44B53C14C7EAC169D4763
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(3).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(3).Data.Text
+msgid "Tu te fou de moi ?! c'est dangereux dehors ! à ton avis pourquoi somme nous bloquer dans cette endroit."
+msgstr "Tu te fou de moi ?! c'est dangereux dehors ! à ton avis pourquoi somme nous bloquer dans cette endroit."
+
+#. Key:	A10346CA42A09662A68513A14F286E05
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(6).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(6).Data.Text
+msgid "Sur quoi veux tu des conseils ?"
+msgstr "Sur quoi veux tu des conseils ?"
+
+#. Key:	A54C0E9342AAA69885402EA353C782BF
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(5).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(5).Data.Text
+msgid "D'autre quesiton ? sinon reste pas dans mes pattes."
+msgstr "D'autre quesiton ? sinon reste pas dans mes pattes."
+
+#. Key:	A6F496794423C979AB31EC8B02118376
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+msgid "Effect Volume"
+msgstr "Volume des effets"
+
+#. Key:	AB542BA645D8C0989C33CB844F946B12
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(1).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(1).Data.Text
+msgid "Bonjour, bonjour, bonjour .... Pourquoi tu me fixe comme ça qu'est ce que tu veux ?"
+msgstr "Bonjour, bonjour, bonjour .... Pourquoi tu me fixe comme ça qu'est ce que tu veux ?"
+
+#. Key:	ABB7904D496EBE9DB8D08E84AD64C168
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_124.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_124.Text
+msgid "Graphics"
+msgstr "Video"
+
+#. Key:	AE694C104228495ACFBC76B0A4CB706D
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(4).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Alchimist.D_Alchimist.Data(4).Data.Text
+msgid "Qu'est ce que je fait ?! mais des potion bien sur ! L'alchimie et la base d'un combat gagner. Grâce à ces petit bijoux tes chance de survie sont décuplé la dehors."
+msgstr "Qu'est ce que je fait ?! mais des potion bien sur ! L'alchimie et la base d'un combat gagner. Grâce à ces petit bijoux tes chance de survie sont décuplé la dehors."
+
+#. Key:	AFC987BF4E9BE87A6CCE5C9F3636D377
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+msgid "Francais"
+msgstr "Francais"
+
+#. Key:	B04C0DCF469842B893D97F8A0537DB6A
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#. Key:	F5D9E68647726406650E47A6AEDE92C5
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:Get Text 0 [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:Get Text 0 [Script Bytecode]
+msgid "1280*720"
+msgstr "1280*720"
+
+#. Key:	B7B7A7124D5F17C13935E193EF179CDF
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/KeyBinding.KeyBinding_C:WidgetTree.TextBlock_6.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/KeyBinding.KeyBinding_C:WidgetTree.TextBlock_6.Text
+msgid "Key"
+msgstr "Key"
+
+#. Key:	B9FD2C5B4FECF1614B58DC9045E778A0
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#. Key:	E8EE90D54D03BF41689A7C9E1FF1DA00
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:Get Text 0 [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:Get Text 0 [Script Bytecode]
+msgid "640*480"
+msgstr "640*480"
+
+#. Key:	BE125430459CB683175A37AB71897921
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(10).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(10).Data.Text
+msgid "Quelque chose d'autre ?"
+msgstr "Quelque chose d'autre ?"
+
+#. Key:	C29F8F584282217C4C9EC28F56AF3349
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+msgid "Espagnol"
+msgstr "Espagnol"
+
+#. Key:	C51BD80047517E4F75FFA080CD050898
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(3).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(3).Data.Text
+msgid "Des conseils ?"
+msgstr "Des conseils ?"
+
+#. Key:	C5A4F841447D2D4B882E6A960CCC1D7A
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(2).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(2).Data.Text
+msgid "Je veux sortir."
+msgstr "Je veux sortir."
+
+#. Key:	CA3C07B84AB5F695EEE4A29AEC36317F
+#. SourceLocation:	/Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.TextBlock_321.Text
+#: /Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.TextBlock_321.Text
+msgid "Camera Height :"
+msgstr "Camera Height :"
+
+#. Key:	CB733C2F4C37460D87F425B9D4FFBC20
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_2.Text
+msgid "General"
+msgstr "General"
+
+#. Key:	CB8D331343860A1BEA9F51A3C182D0A1
+#. SourceLocation:	/Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_449.Text
+#: /Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.TextBlock_449.Text
+msgid "Options"
+msgstr "Options"
+
+#. Key:	CC2DFF9E426E610EC79FE0BEA25D727C
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock.Text
+msgid "Controls"
+msgstr "Commandes"
+
+#. Key:	CE93D95747D0DEAEB1625483CCEB603D
+#. SourceLocation:	/Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.btnMoveCamera.ToolTipText
+#: /Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.btnMoveCamera.ToolTipText
+msgid "Click to toggle between move mode and fixed mode"
+msgstr "Click to toggle between move mode and fixed mode"
+
+#. Key:	CECB79C94B5DB72CC533E2874B537BFD
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/EnumPNJ.EnumPNJ.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Blueprints/HUB/Dialogues/EnumPNJ.EnumPNJ.DisplayNameMap(2 - Value).DisplayNameMap
+msgid "Guard"
+msgstr "Guard"
+
+#. Key:	D386355E464977ADA870E28871AE8EFC
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+msgid "Graphics Option"
+msgstr "Option Graphique"
+
+#. Key:	D79C06D948F5BC69C9DB19B2DE40E381
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/KeyBinding.KeyBinding_C:WidgetTree.TextBlock_186.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/KeyBinding.KeyBinding_C:WidgetTree.TextBlock_186.Text
+msgid "BindAction"
+msgstr "BindAction"
+
+#. Key:	DE33CE774594020245EDEDA6811D0419
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(14).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(14).Data.Text
+msgid "Partir"
+msgstr "Partir"
+
+#. Key:	DE35EFC5496F99009589D1986EB36FD7
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(7).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_Guard.D_Guard.Data(7).Data.Text
+msgid "Pourquoi vous resté ici tout le temps ?"
+msgstr "Pourquoi vous resté ici tout le temps ?"
+
+#. Key:	E020F6EB457064119D51068B3DAB6D62
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(7).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(7).Data.Text
+msgid "Qu'elle armes choisir ?"
+msgstr "Qu'elle armes choisir ?"
+
+#. Key:	E7DFBAFD4911A203D34FF88F448EE526
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/SwitchParam.SwitchParam_C:ExecuteUbergraph_SwitchParam [Script Bytecode]
+msgid "Anglais"
+msgstr "Anglais"
+
+#. Key:	EC99A3444136F4369F0EDB9EA35D7A57
+#. SourceLocation:	/Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(1).Data.Text
+#: /Game/Blueprints/HUB/Dialogues/D_BlackSmith.D_BlackSmith.Data(1).Data.Text
+msgid "Salut aventurier, je suis Rémi le forgeron du vaisseau. Que puis- je faire pour vous ?"
+msgstr "Salut aventurier, je suis Rémi le forgeron du vaisseau. Que puis- je faire pour vous ?"
+
+#. Key:	EFA88D6F4ED2F6C342497C9C2F21D183
+#. SourceLocation:	/Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.rtbUsageInfo.Text
+#: /Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.rtbUsageInfo.Text
+msgid "Select a <colored>LevelAreaGenerator</> first, to open the editor..."
+msgstr "Select a <colored>LevelAreaGenerator</> first, to open the editor..."
+
+#. Key:	F1A2EAEE40BEB97DD21BE4AF01B65306
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:WidgetTree.TextBlock_1.Text
+msgid "Sounds"
+msgstr "Sons"
+
+#. Key:	F948DFB8489B2093E93707AE5EA53D0E
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+#: /Game/UserInterfaces/HUD/OptionsMenu/UI_OptionMenu.UI_OptionMenu_C:ExecuteUbergraph_UI_OptionMenu [Script Bytecode]
+msgid "Controls Option"
+msgstr "Parametres des commandes"
+
+#. Key:	FC13FE2E41B7845254E2E6ADA451658D
+#. SourceLocation:	/Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.rtbOneActor.Text
+#: /Game/UserInterfaces/EditorTools/LevelAreaEditor.LevelAreaEditor_C:WidgetTree.rtbOneActor.Text
+msgid "Select <bold>one actor only</> !"
+msgstr "Select <bold>one actor only</> !"
+
+#. Key:	FCA2CBDD46A5502F75D26D9320DAE468
+#. SourceLocation:	/Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.Title.Text
+#: /Game/UserInterfaces/HUD/UI_MainMenu.UI_MainMenu_C:WidgetTree.Title.Text
+msgid "Project FPS Rogue"
+msgstr "Project FPS Rogue"
+
+#. Key:	Constants
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionConstant_0.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionConstant_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Constants"
+msgstr "Constants"
+
+#. Key:	Coordinates
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionTextureCoordinate_1.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionTextureCoordinate_1.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Coordinates"
+msgstr "Coordinates"
+
+#. Key:	Functions
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionMaterialFunctionCall_10.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionMaterialFunctionCall_10.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Functions"
+msgstr "Functions"
+
+#. Key:	MaterialAttributes
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionMakeMaterialAttributes_3.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionMakeMaterialAttributes_3.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Material Attributes"
+msgstr "Material Attributes"
+
+#. Key:	Math
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionMultiply_2.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionMultiply_2.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Math"
+msgstr "Math"
+
+#. Key:	Misc
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4.LibraryCategoriesText(0).LibraryCategoriesText
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4.LibraryCategoriesText(0).LibraryCategoriesText
+msgctxt "MaterialExpression"
+msgid "Misc"
+msgstr "Misc"
+
+#. Key:	Parameters
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionStaticSwitchParameter_0.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionStaticSwitchParameter_0.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Parameters"
+msgstr "Parameters"
+
+#. Key:	Texture
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionTextureSample_4.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionTextureSample_4.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Texture"
+msgstr "Texture"
+
+#. Key:	Utility
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionComment_38.MenuCategories(0).MenuCategories
+#: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body:MaterialExpressionComment_38.MenuCategories(0).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Utility"
+msgstr "Utility"
+
+#. Key:	Vectors
+#. SourceLocation:	/Game/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionConstant3Vector_1.MenuCategories(1).MenuCategories
+#: /Game/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionConstant3Vector_1.MenuCategories(1).MenuCategories
+msgctxt "MaterialExpression"
+msgid "Vectors"
+msgstr "Vectors"
+
+#. Key:	TextBlockDefaultValue
+#. SourceLocation:	/Game/UserInterfaces/HUD/OptionsMenu/SliderParam.SliderParam_C:WidgetTree.TextBlock_90.Text
+#: /Game/UserInterfaces/HUD/OptionsMenu/SliderParam.SliderParam_C:WidgetTree.TextBlock_90.Text
+msgctxt "UMG"
+msgid "Text Block"
+msgstr "Text Block"
+
